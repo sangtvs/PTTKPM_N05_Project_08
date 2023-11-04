@@ -1,10 +1,5 @@
 <?php
 
-/**
- * Index Site
- * Author: Phạm Quang Huy (Harry Pham)
- * Mail: pqhuy2@software.misa.com.vn
- **/
 
 require_once 'config/config.php';
 date_default_timezone_set(Config::TIMEZONE);
